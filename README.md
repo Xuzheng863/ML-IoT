@@ -1,6 +1,6 @@
 # Improve Machine Learning-IoT Interface
 
-### Project Description
+## Project Description
 
 The content of this research is to improve IoT-Machine Learning bridge. Machine learning on device data now would require human to collect the data from, preprocess the data and run the algorithms manually. This process takes time and would hinder further automation of Machine Learning-IoT connection.
 
@@ -9,6 +9,12 @@ In order to reduce human actions needed in this process and improve training eff
 This research will focus on: 1. Creating a scheduler for Machine Learning and IoT server to achieve low server load and high training efficiency and 2. Setting basic set of rules for data preprocessing in order to synchronize the data for better training results. To narrow down the research direction, this research will focus on a ML IoT combo of extracting cooking related information to evaluate cooking process and replicate cooking process with robots.
 
 
-### Project Proposal
+## Project Proposal
+[Project Proposal](/docs/WrittenProposal.pdf)
 
-### Milestone Reports
+## Milestone Reports
+[Milestone 12/18](/docs/MilestoneReport1.pdf)
+
+[Milestone 1/29](/docs/MilestoneReport2.pdf)
+
+[Milestone 2/12](/docs/MilestoneReport3.pdf)
