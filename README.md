@@ -22,3 +22,5 @@ This research will focus on: 1. Creating a scheduler for Machine Learning and Io
 [Milestone 2/26](/docs/MilestoneReport4.pdf)
 
 [Milestone 3/19](/docs/MilestoneReport5.pdf)
+
+[Milestone 4/2](/docs/MilestoneReport6.pdf)
